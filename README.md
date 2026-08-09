@@ -7,7 +7,7 @@
   align="right" 
 />
 
-<h1 align="left">Hi! I'm <code>&lt;/MeyersDev&gt;</code></h1>
+<h1 align="left">Hi! I'm <code>&lt;/zRoloo&gt;</code></h1>
 
 <p align="left">
   I'm a <strong>Computer Technician and Full-Stack Developer</strong> with a strong interest in <strong>international relations, leadership, and strategic communication</strong>. I enjoy combining technology with people skills, working on web applications, backend systems, and digital platforms while collaborating in professional and multicultural environments. My goal is to become an expert who connects <strong>technology, strategy, and external relations</strong>, building impactful digital solutions and leading projects with a global mindset.
